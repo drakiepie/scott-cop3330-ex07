@@ -1,5 +1,10 @@
 package org.example;
 
+/*
+ *  UCF COP3330 Summer 2021 Exercise 7 Solution
+ *  Copyright 2021 Drake Scott
+ */
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
